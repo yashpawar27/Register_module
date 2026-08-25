@@ -6,5 +6,7 @@ Parts list:
 - 1x SN74LS08N
 - 1x SN74LS32N
 - 1x SN74LS74N
+- 1x 1k resistor
+- 1x LED
 
 Credit goes to Ben Eater providing the schematics/tutorial for this project. https://eater.net/8bit/registers
